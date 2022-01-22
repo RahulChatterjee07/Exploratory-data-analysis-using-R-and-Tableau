@@ -1,8 +1,8 @@
 ---
 title: "Geocoding: OpenStreetMap + R + Tableau""
-subtitle: "AFFILIATION OR REMOVE" 
-author: YOUR_NAME_HERE
-date: "MONTH YEAR"
+subtitle: "McGill University" 
+author: "Rahul Chatterjee"
+date: "Jan 2021"
 output:
   html_notebook: default
   html_document: default
